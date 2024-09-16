@@ -1,0 +1,3 @@
+This consists of below two projects:
+1. ILOE-B - Extraction of Entities for TerminationLetter & DWorkWallet
+2. AuMX - Classification & Extraction by Transaction
